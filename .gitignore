@@ -12,6 +12,8 @@ node_modules
 dist
 dist-ssr
 coverage
+
+# local env files
 *.local
 
 /cypress/videos/
@@ -26,3 +28,8 @@ coverage
 *.njsproj
 *.sln
 *.sw?
+
+.firebase
+.firebasesrc
+
+
